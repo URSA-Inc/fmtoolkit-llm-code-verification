@@ -55,4 +55,4 @@ contributions that are not aligned with a welcoming, professional environment.
 ## Reporting security issues
 
 Please do not file public issues for security vulnerabilities. Email
-security@ursasecure.com with details, and we will coordinate a fix and disclosure.
+info@ursasecure.com with details, and we will coordinate a fix and disclosure.
